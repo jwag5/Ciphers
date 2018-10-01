@@ -1,6 +1,5 @@
 /*
 VigenereCipher.cpp
-CS4600.01 Inclass Assignment #01
 Jake Wagner
 September 26, 2018
 */
